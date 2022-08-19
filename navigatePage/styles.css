@@ -1,0 +1,11 @@
+.navbar {
+    position: fixed;
+    background-color: mediumvioletred;
+    width: 100%;
+}
+
+.navbar-item {
+    color: white;
+    float: left;
+    margin: 15px;
+}
