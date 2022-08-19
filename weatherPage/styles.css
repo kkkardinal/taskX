@@ -1,0 +1,19 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.weather-block {
+    background-color:rgb(68, 95, 173);
+    width: 200px;
+    height: 250px;
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+    padding: 25px 0;
+    margin: 0 10px;
+}
+
+.weather-image {
+    width: 150px;
+}
